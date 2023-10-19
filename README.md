@@ -1,0 +1,2 @@
+# tsmap
+typed sync map
